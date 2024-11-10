@@ -1,0 +1,39 @@
+.bgc-blue{
+    fill: #8294EF !important;
+}
+
+
+/* 自定义更大的边距和填充 */
+.mmt-6 {
+    margin-top: 6rem !important; /* 96px */
+}
+.mmb-6 {
+    margin-bottom: 6rem !important; /* 96px */
+}
+.mml-6 {
+    margin-left: 6rem !important; /* 96px */
+}
+.mmr-6 {
+    margin-right: 6rem !important; /* 96px */
+}
+.mmx-6 {
+    margin-left: 6rem !important; /* 96px */
+    margin-right: 6rem !important; /* 96px */
+}
+
+.mpt-6 {
+    padding-top: 6rem !important; /* 96px */
+}
+.mpb-6 {
+    padding-bottom: 6rem !important; /* 96px */
+}
+.mpl-6 {
+    padding-left: 6rem !important; /* 96px */
+}
+.mpr-6 {
+    padding-right: 6rem !important; /* 96px */
+}
+.mpx-6 {
+    padding-left: 6rem !important; /* 96px */
+    padding-right: 6rem !important; /* 96px */
+}
